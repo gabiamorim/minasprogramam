@@ -11,8 +11,8 @@
     alt =" imagem do sol brilhando radiante nas colinas"
     />
     <h2> Mais um dia de curso! </h2>
-    <h3>Esse momento È m·gico! </h3>
-    <H4> V·rias descobertas! </h4>
+    <h3>Esse momento √© m√°gico! </h3>
+    <H4> V√°rias descobertas! </h4>
 
     <p><em> Pense nas possibilidades:</em> </p>
     <ol>
@@ -25,6 +25,7 @@
       <li> estou com gripe</li>
       <li> estou com sono </li>
       <li> tenho fome </li>
+    </ul>
 
 <p><strong> Teremos um longo caminho pela frente! </strong></p>
 
@@ -32,7 +33,7 @@
     src= "https://media.tenor.com/images/ef34d9cc710fe0e72a479822e74f6b88/raw" alt= "imagem de um gato" />
 
 <pre>
-  amostra de cÛdigo
+  amostra de c√≥digo
 </pre>
 
 <hr>
