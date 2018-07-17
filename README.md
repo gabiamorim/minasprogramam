@@ -1,2 +1,2 @@
 # minasprogramam
-Primeira aula de HTML Minas Programam
+Aulas de HTML do curso Minas Programam
